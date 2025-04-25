@@ -3,30 +3,23 @@ import { Leader } from '../types';
 export const leaders: Leader[] = [
   {
     id: '1',
-    name: 'Pastor Emmanuel Thompson',
-    role: 'Senior Pastor',
-    bio: 'Pastor Emmanuel leads CORIM with a powerful vision of creating a refuge for all seeking spiritual growth and community.',
-    imageUrl: 'https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg'
+    name: 'Jane Mwiti',
+    role: 'Director',
+    bio: 'Director Jane leads CORIM with a powerful vision of creating a refuge for all seeking spiritual growth and community.',
+    imageUrl: 'https://i.imgur.com/M2d1XXU.jpeg'
   },
   {
     id: '2',
-    name: 'Minister Sarah Okonjo',
-    role: 'Prayer Ministry Director',
-    bio: 'Sarah oversees our prayer ministry and the development of our new Prayer Centre, fostering spiritual growth in our community.',
-    imageUrl: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg'
+    name: 'David Weru ',
+    role: 'Assistant Director',
+    bio: 'David Weru serves as the Assistant Director, supporting the Director and stepping in to lead operations during her absence. He plays a key role in strategic planning and organizational leadership.',
+    imageUrl: 'https://i.imgur.com/dF7hsGb.jpeg'
   },
   {
     id: '3',
-    name: 'Brother David Adebayo',
-    role: 'Worship Director',
-    bio: 'David leads our worship team with passion, creating an atmosphere of praise and spiritual connection.',
-    imageUrl: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg'
-  },
-  {
-    id: '4',
-    name: 'Sister Rachel Mensah',
-    role: 'Community Outreach Coordinator',
-    bio: 'Rachel coordinates our community initiatives, ensuring CORIM remains a beacon of hope and support in our area.',
-    imageUrl: 'https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg'
+    name: 'Joyce Ngatia',
+    role: 'Our Partner',
+    bio: 'Joyce Ngatia is a dedicated partner who works closely with the ministry across all its operations, offering strategic support and collaboration to further its mission.',
+    imageUrl: 'https://i.imgur.com/6IY6Zrk.jpeg'
   }
 ];
