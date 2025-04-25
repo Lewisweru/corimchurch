@@ -13,7 +13,7 @@ export const leaders: Leader[] = [
     name: 'David Weru ',
     role: 'Assistant Director',
     bio: 'David Weru serves as the Assistant Director, supporting the Director and stepping in to lead operations during her absence. He plays a key role in strategic planning and organizational leadership.',
-    imageUrl: 'https://i.imgur.com/dF7hsGb.jpeg'
+    imageUrl: 'https://i.imgur.com/DCD09Zu.png'
   },
   {
     id: '3',
